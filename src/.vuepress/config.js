@@ -9,7 +9,7 @@ module.exports = {
       nav: [
         { text: "About", link: "/", position: "left", external: false },
         { text: "Projects", link: "/projects/", position: "left", external: false },
-        { text: "Twitter", link: "https://www.instagram.com/itsnunolemos/", position: "left", external: true }
+        { text: "Twitter", link: "https://www.twitter.com/itsnunolemos/", position: "left", external: true }
       ]
     },
     head: [
